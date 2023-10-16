@@ -1,1 +1,1 @@
-#[PhotoGallery](https://ragurp.github.io/PhotoGallery/)
+# [PhotoGallery](https://ragurp.github.io/PhotoGallery/)
